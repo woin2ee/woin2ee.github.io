@@ -19,6 +19,8 @@ author:
 
 paginate:         5
 
+timezone: Asia/Seoul
+
 # Custom vars
 version:          2.1.0
 
@@ -28,3 +30,5 @@ github:
 plugins: [jekyll-paginate, jekyll-gist]
 
 categories: [ Posts ]
+
+
