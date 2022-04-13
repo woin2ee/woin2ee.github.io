@@ -22,17 +22,22 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
+    <!-- 이전 포스트 있을 때 -->
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
   {% else %}
+    <!-- 이전 포스트 없을 때 -->
     <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
+      <!-- 다음 포스트가 가장 최근 포스트일 때 (baseurl로 이동) -->
       <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
     {% else %}
+      <!-- 다음 포스트 있을 때 -->
       <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
     {% endif %}
   {% else %}
+    <!-- 다음 포스트 없을 때 -->
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
