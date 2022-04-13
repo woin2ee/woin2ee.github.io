@@ -26,3 +26,5 @@ github:
   repo:           https://github.com/woin2ee/woin2ee.github.io
 
 plugins: [jekyll-paginate, jekyll-gist]
+
+categories: [ Posts ]
