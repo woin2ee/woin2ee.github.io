@@ -7,7 +7,7 @@ permalink:        /:categories/:title/
 # relative_permalinks: true
 
 # Setup
-title:            Trace2
+title:            Trace
 tagline:          'none'
 description:      'description'
 url:              https://woin2ee.github.io/
