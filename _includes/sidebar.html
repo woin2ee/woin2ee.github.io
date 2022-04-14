@@ -1,15 +1,15 @@
 <div class="sidebar">
   <div class="container">
     <div class="sidebar-about">
-      <h1>
+      <h2>
         <a href="/">
           {{ site.title }}
         </a>
-      </h1>
-      <p class="lead">{{ site.description }}</p>
+      </h2>
+      <p class="lead" style="font-size: 16px;">{{ site.description }}</p>
     </div>
 
-    <nav class="sidebar-nav">
+    <nav class="sidebar-nav" style="margin-top: 60px;">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a>
 
       <a class="sidebar-nav-item" href="/category">Categories</a>
