@@ -7,9 +7,9 @@ permalink:        /:categories/:title/
 # relative_permalinks: true
 
 # Setup
-title:            Trace
+title:            JW's Blog
 tagline:          'none'
-description:      'description'
+description:      '포스팅으로 생각을 정리하자'
 url:              https://woin2ee.github.io/
 baseurl:          /
 
