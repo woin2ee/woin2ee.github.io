@@ -82,3 +82,7 @@ categories: Posts
 - [ :q! ] : 파일 저장하지 않고 편집기 강제 종료
 
 - [ :wq ] : 정상적으로 파일 저장 후 편집기 종료
+
+**[ :set number / :set nu ]** : 편집기 좌측에 라인 번호 표시
+
+**[ :set nonumber / :set nonu ]** : 편집기 좌측 라인 번호 숨기기
