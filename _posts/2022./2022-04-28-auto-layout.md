@@ -9,8 +9,10 @@ categories: Posts
 
 1차 방정식(혹은 부등식)의 형태
 
+![](http://woin2ee.github.io/asset/images/Constraint-linear-equation.png)
+
 FirstItem.Attribute  =  Multiplier \* SecondItem.Attribute \* Constant
-            ㄴ(Relationship)
+              ㄴ(Relationship)
 
 - FirstItem : Constraint의 대상이 되는 두 뷰 중 하나입니다. 뷰 혹은 레이아웃 가이드 객체만이 가능하며, 반드시 지정되어야만 합니다.
 - Attribute : FirstItem에서 실제로 Constraint에 영향을 받는 속성입니다.
