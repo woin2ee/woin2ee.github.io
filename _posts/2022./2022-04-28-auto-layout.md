@@ -5,6 +5,12 @@ date: 2022/04/28/00:00
 categories: Posts
 ---
 
+## Auto Layout
+
+- 뷰의 크기와 위치를 제약조건(Constraint)을 기반으로 해서 동적으로 계산
+- 상대적인 좌표
+- Constraint의 모음
+
 ## Constraint(제약 조건)
 
 1차 방정식(혹은 부등식)의 형태
@@ -20,3 +26,5 @@ categories: Posts
 - Constant: SecondItem.Attribute에 더해지는 부동 소수점 타입의 상수
 
  Ex) Label.top = 1 * Safe Area.top + 50
+
+## Safe Area
