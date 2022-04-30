@@ -42,3 +42,6 @@ node_modules
 
 
 .jekyll-cache/
+
+# User custom
+origin_post/
