@@ -33,12 +33,18 @@ Application이 상태바, 네비게이션바, 탭바를 가리는 것을 방지�
 
 ## Priority (우선도)
 
->### Intrinsic Content Size
+### Intrinsic Content Size
 
 `Auto Layout`에 변경되기 전 뷰의 원래 크기
 
-### Constant Priority
+### Constraint Priority
 
-#### Contents Hugging Priority
+Constraint가 충돌하는 경우 적용할 우선 순위 값
 
-#### Contents Compression Resistance Priority
+- #### Contents Hugging
+  
+  : 뷰가 `Intrinsic Content Size` 보다 커지지 않도록 함
+
+- #### Contents Compression Resistance
+
+  : 뷰가 `Intrinsic Content Size` 보다 작아지지 않도록 함
