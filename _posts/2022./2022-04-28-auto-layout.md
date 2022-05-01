@@ -27,6 +27,20 @@ categories: Posts
 
  Ex) Label.top = 1 * Safe Area.top + 50
 
+## Auto Layout Attribute
+
+- Width
+- Height
+- Top
+- Bottom
+- Baseline
+- Leading
+- Trailing
+- CenterX
+- CenterY
+- Horizontal
+- Vertical
+
 ## Safe Area
 
 Application이 상태바, 네비게이션바, 탭바를 가리는 것을 방지하는 영역
