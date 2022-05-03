@@ -53,10 +53,11 @@ Application이 상태바, 네비게이션바, 탭바를 가리는 것을 방지�
 
 ### Constraint Priority
 
-Constraint가 충돌하는 경우 적용할 우선 순위 값
+Constraint가 충돌하는 경우 적용할 우선 순위 값  
+기본 **1,000(무조건 적용)**으로 설정되어있고, **750(우선순위높음)**, **500(중간)**, **250(낮음)**의 값을 갖는다.
 
 - #### Contents Hugging
-  
+
   : 뷰가 `Intrinsic Content Size` 보다 커지지 않도록 함
 
 - #### Contents Compression Resistance
