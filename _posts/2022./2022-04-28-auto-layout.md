@@ -29,6 +29,8 @@ categories: Posts
 
 ## Auto Layout Attribute
 
+![Auto Layout Attributes](http://woin2ee.github.io/asset/images/Auto-Layout-Attributes.png)
+
 - Width
 - Height
 - Top
