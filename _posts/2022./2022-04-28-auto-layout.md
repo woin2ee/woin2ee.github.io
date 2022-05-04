@@ -40,8 +40,6 @@ categories: Posts
 - Trailing
 - CenterX
 - CenterY
-- Horizontal
-- Vertical
 
 ## Safe Area
 
