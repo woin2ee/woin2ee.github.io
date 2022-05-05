@@ -63,3 +63,8 @@ Constraint가 충돌하는 경우 적용할 우선 순위 값
 - #### Contents Compression Resistance
 
   : 뷰가 `Intrinsic Content Size` 보다 작아지지 않도록 함
+
+&nbsp;
+
+참고한 사이트  
+\- [https://leeari95.tistory.com/45](https://leeari95.tistory.com/45)
