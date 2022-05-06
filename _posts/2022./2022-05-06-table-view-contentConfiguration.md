@@ -51,3 +51,7 @@ func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) ->
 ![UIListContentConfiguration-Creating-Default-Cell-Configurations](http://woin2ee.github.io/asset/images/UIListContentConfiguration-Creating-Default-Cell-Configurations.png)
 ![UIListContentConfiguration-Customizing-Content](http://woin2ee.github.io/asset/images/UIListContentConfiguration-Customizing-Content.png)
 
+&nbsp;
+
+참고한 강의 or 사이트  
+\- [https://www.youtube.com/watch?v=AG5u4wtMdB4](https://www.youtube.com/watch?v=AG5u4wtMdB4)
