@@ -24,6 +24,8 @@ print(s2?.age)  // nil
 `Optional Chaining`을 사용한 변수에 어떤 값이 할당될 때는 하나라도 nil이 있으면 명령문이 무시된다.  
 nil이 아닌 변수는 자동으로 언래핑 된다.
 
+`Optional Chaining`을 이용하여 함수를 호출한 경우도 하나라도 nil이 있으면 명령문이 무시된다.
+
 &nbsp;
 
 참고한 강의 or 사이트  
